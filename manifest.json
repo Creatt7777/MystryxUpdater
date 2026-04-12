@@ -137,12 +137,16 @@
       "hash": "9299326e13fa4f10c377ea6b26c771f9"
     },
     {
-      "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
-      "hash": "bf41a4251d431d92b89b6c91f84d5546"
-    },
-    {
       "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
       "hash": "d69107c593e361e1b7b96733250bd098"
+    },
+    {
+      "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "hash": "6b528d368f7fcbf737df28f2457cdec6"
+    },
+    {
+      "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "hash": "bf41a4251d431d92b89b6c91f84d5546"
     }
   ]
 }
