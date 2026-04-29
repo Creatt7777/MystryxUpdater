@@ -77,6 +77,14 @@
       "hash": "97468b3e2dd78032c8ab5655942cd600"
     },
     {
+      "name": "easy_factions-0.9.1.jar",
+      "hash": "8776bfd949d57d591bcce7b19ca31e01"
+    },
+    {
+      "name": "easy_factions_objective_control-0.1.8.jar",
+      "hash": "8f668b723517a21ae8e58b0fed7b0198"
+    },
+    {
       "name": "effortlessbuilding-1.20.1-3.10.jar",
       "hash": "a57660341d13ed1cc5d4f1dae9f79e20"
     },
@@ -123,10 +131,6 @@
     {
       "name": "journeymap-1.20.1-5.10.3-forge.jar",
       "hash": "be46ebd4654a75a03ecbc5497d2ddce9"
-    },
-    {
-      "name": "JourneyMap-Teams-forge-1.20.1-1.1.3.jar",
-      "hash": "d3ba9975a94403f2485cd39a26552603"
     },
     {
       "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
