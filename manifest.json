@@ -125,6 +125,10 @@
       "hash": "d69107c593e361e1b7b96733250bd098"
     },
     {
+      "name": "kubejs-forge-2001.6.5-build.24.jar",
+      "hash": "fe11669761112cda3e75d21b13a11931"
+    },
+    {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
       "hash": "6b528d368f7fcbf737df28f2457cdec6"
     },
@@ -147,6 +151,10 @@
     {
       "name": "scannable-MC1.20.1-forge-1.7.12+18ccb75.jar",
       "hash": "e57d955d7a5f1c5c7c66ac9c6451a250"
+    },
+    {
+      "name": "SimpleLogin-1.20.1-1.0.2-all.jar",
+      "hash": "e48ba16ac4f6eb6d215d9277110d9df0"
     },
     {
       "name": "skin_changer-forge-1.20.1-0.6.6.jar",
