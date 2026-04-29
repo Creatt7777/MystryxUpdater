@@ -101,6 +101,14 @@
       "hash": "8bbd067159587d80f1c5286ea52e567b"
     },
     {
+      "name": "futureshops-1.0.jar",
+      "hash": "79809abbd9bf53bf7583280176e22321"
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.8.3.jar",
+      "hash": "33b0f8fe0a8d59fcf9d4e222741ecba7"
+    },
+    {
       "name": "hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
       "hash": "63e1368ce3acd67bf26dd2b12e5eace0"
     },
@@ -139,6 +147,10 @@
     {
       "name": "moonlight-1.20-2.16.28-forge.jar",
       "hash": "16b9f89e07b2c567c610881f784cf6d1"
+    },
+    {
+      "name": "oresabovediamonds-10.0.1b.jar",
+      "hash": "c29959b97101458281841149ed397b10"
     },
     {
       "name": "players-drop-heads-15.1.jar",
