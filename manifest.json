@@ -41,6 +41,10 @@
       "hash": "da80c09b998d829b6d580e5be76dcc7b"
     },
     {
+      "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "hash": "7a71806a1167d866608fc2e8c7d62041"
+    },
+    {
       "name": "collective-1.20.1-8.17.jar",
       "hash": "fb63bf2eb1dce9d1715cdd77c7c4ec36"
     },
@@ -93,6 +97,14 @@
       "hash": "54fd8868bbff9fc88befe9b32555dfe8"
     },
     {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "hash": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+    },
+    {
+      "name": "entityculling-forge-1.10.1-mc1.20.1.jar",
+      "hash": "fa444135fa129ab6197e6829c0bd6197"
+    },
+    {
       "name": "exposure-forge-1.20.1-1.9.20.jar",
       "hash": "b4adbdc1368921a238a039d28ad83d7e"
     },
@@ -103,6 +115,10 @@
     {
       "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
       "hash": "bf41a4251d431d92b89b6c91f84d5546"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "hash": "f52f538207a4829d7060550092ce2383"
     },
     {
       "name": "ftb-essentials-forge-2001.2.4.jar",
@@ -129,6 +145,10 @@
       "hash": "63e1368ce3acd67bf26dd2b12e5eace0"
     },
     {
+      "name": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+      "hash": "8fb21bb328cc322c6d9749eff087509f"
+    },
+    {
       "name": "immersivemc-1.5.8-1.20.1-forge.jar",
       "hash": "a6559e36f3ed49987bcf097d441d5c98"
     },
@@ -149,12 +169,20 @@
       "hash": "fe11669761112cda3e75d21b13a11931"
     },
     {
+      "name": "lazyDFU-[UNOFFICIAL]-1.20.jar",
+      "hash": "1f5aebd01e20f1a636f12920a9a166e2"
+    },
+    {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
       "hash": "6b528d368f7fcbf737df28f2457cdec6"
     },
     {
       "name": "mobhealthbar-forge-1.20.x-2.3.0.jar",
       "hash": "fb590b86c6f971a8ff0c79933d5723df"
+    },
+    {
+      "name": "modernfix-forge-5.27.15+mc1.20.1.jar",
+      "hash": "e6214ed279ed845f4cff7494b1d28f9a"
     },
     {
       "name": "moonlight-1.20-2.16.28-forge.jar",
@@ -197,6 +225,10 @@
       "hash": "c52bf453f18b87f43cae36acf628eb60"
     },
     {
+      "name": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "hash": "c8cd5ae14d99796fd92c95a353e96211"
+    },
+    {
       "name": "snowyspirit-1.20-3.0.10.jar",
       "hash": "8d281f47b68918f177f7f1e5f12bbeae"
     },
@@ -207,6 +239,10 @@
     {
       "name": "spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
       "hash": "522b10d8b1901f3b16c0cc753a39a185"
+    },
+    {
+      "name": "starlight-1.1.2+forge.1cda73c.jar",
+      "hash": "da99a054428fb62342b6767b993c4c8d"
     },
     {
       "name": "supplementaries-1.20-3.1.43-forge.jar",
