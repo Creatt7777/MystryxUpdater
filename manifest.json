@@ -85,10 +85,6 @@
       "hash": "a57660341d13ed1cc5d4f1dae9f79e20"
     },
     {
-      "name": "elytra-slot-customcompat-forge-1.2.0-1.20.1.jar",
-      "hash": "4b3874f2509f69de81cebd00e01b9aa8"
-    },
-    {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
       "hash": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
     },
@@ -167,6 +163,10 @@
     {
       "name": "kubejs-forge-2001.6.5-build.24.jar",
       "hash": "fe11669761112cda3e75d21b13a11931"
+    },
+    {
+      "name": "kubejs_curios_forge_1.20.1-1.0.4.jar",
+      "hash": "682321afb7a890679293c13cc80cbdc6"
     },
     {
       "name": "lazyDFU-[UNOFFICIAL]-1.20.jar",
