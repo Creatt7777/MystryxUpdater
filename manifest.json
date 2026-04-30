@@ -21,14 +21,6 @@
       "hash": "0165d0921a96ee41880446af6182fffe"
     },
     {
-      "name": "caelus-forge-3.1.0+1.20.jar",
-      "hash": "01003de5f2ea85558d3b336f0a386966"
-    },
-    {
-      "name": "caelus-forge-3.2.0+1.20.1 (1).jar",
-      "hash": "ac909c99a2a96ead2073f98bf0dd7b78"
-    },
-    {
       "name": "caveblock-2.0V1.20.1.jar",
       "hash": "c5a00fb219f5c1ed87d040f202bb0acf"
     },
@@ -93,8 +85,8 @@
       "hash": "a57660341d13ed1cc5d4f1dae9f79e20"
     },
     {
-      "name": "elytraslot-forge-6.4.3+1.20.1.jar",
-      "hash": "fca503a332c5ad9b22df61703a888811"
+      "name": "elytra-slot-customcompat-forge-1.2.0-1.20.1.jar",
+      "hash": "4b3874f2509f69de81cebd00e01b9aa8"
     },
     {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
