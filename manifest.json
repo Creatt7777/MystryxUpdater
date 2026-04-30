@@ -21,6 +21,10 @@
       "hash": "0165d0921a96ee41880446af6182fffe"
     },
     {
+      "name": "caelus-forge-3.1.0+1.20.jar",
+      "hash": "34529f4aa9003214c31368bfb51ae1ac"
+    },
+    {
       "name": "caveblock-2.0V1.20.1.jar",
       "hash": "c5a00fb219f5c1ed87d040f202bb0acf"
     },
@@ -83,6 +87,10 @@
     {
       "name": "effortlessbuilding-1.20.1-3.10.jar",
       "hash": "a57660341d13ed1cc5d4f1dae9f79e20"
+    },
+    {
+      "name": "elytraslot-forge-6.3.0+1.20.1.jar",
+      "hash": "3ab79b2737d6da307bdfc2c9891ceb98"
     },
     {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
@@ -163,10 +171,6 @@
     {
       "name": "kubejs-forge-2001.6.5-build.24.jar",
       "hash": "fe11669761112cda3e75d21b13a11931"
-    },
-    {
-      "name": "kubejs_curios_forge_1.20.1-1.0.4.jar",
-      "hash": "682321afb7a890679293c13cc80cbdc6"
     },
     {
       "name": "lazyDFU-[UNOFFICIAL]-1.20.jar",
