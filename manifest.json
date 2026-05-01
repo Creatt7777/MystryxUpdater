@@ -109,6 +109,10 @@
       "hash": "f52f538207a4829d7060550092ce2383"
     },
     {
+      "name": "fix1.0.3-1.20.1-forge.jar",
+      "hash": "014932879bbf5d04db41d8de4dde003a"
+    },
+    {
       "name": "ftb-essentials-forge-2001.2.4.jar",
       "hash": "c46c0af33a0452001e8628075b341eb2"
     },
@@ -187,10 +191,6 @@
     {
       "name": "players-drop-heads-15.1.jar",
       "hash": "8054ad5835c4f7f49d17307b08ed0ada"
-    },
-    {
-      "name": "ReinforcedBlackHoles-1.0.3-1.20.1-forge.jar",
-      "hash": "014932879bbf5d04db41d8de4dde003a"
     },
     {
       "name": "rhino-forge-2001.2.3-build.10.jar",
