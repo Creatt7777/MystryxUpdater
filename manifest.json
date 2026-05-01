@@ -61,10 +61,6 @@
       "hash": "2fdcc97cbc66c4b2492b407c792e7159"
     },
     {
-      "name": "DistantHorizons-3.0.2-b-1.20.1-fabric-forge.jar",
-      "hash": "73e4a0f63f22edcb435e4e6a5fa9a5a4"
-    },
-    {
       "name": "doubledoors-1.20.1-7.2.jar",
       "hash": "acc83322cb9fdaeb03d2b2ad49b538f1"
     },
@@ -137,10 +133,6 @@
       "hash": "63e1368ce3acd67bf26dd2b12e5eace0"
     },
     {
-      "name": "immersivemc-1.5.8-1.20.1-forge.jar",
-      "hash": "a6559e36f3ed49987bcf097d441d5c98"
-    },
-    {
       "name": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
       "hash": "f49ff767f611a95f9bd29a0e9977d9d5"
     },
@@ -195,10 +187,6 @@
     {
       "name": "players-drop-heads-15.1.jar",
       "hash": "8054ad5835c4f7f49d17307b08ed0ada"
-    },
-    {
-      "name": "pmweather-0.16.4-1.20.1-alpha.jar",
-      "hash": "a86c0bfe5139826442229acd809719c5"
     },
     {
       "name": "rhino-forge-2001.2.3-build.10.jar",
