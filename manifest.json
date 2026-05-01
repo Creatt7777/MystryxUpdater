@@ -193,6 +193,10 @@
       "hash": "8054ad5835c4f7f49d17307b08ed0ada"
     },
     {
+      "name": "pmweather-0.16.4-1.20.1-alpha.jar",
+      "hash": "a86c0bfe5139826442229acd809719c5"
+    },
+    {
       "name": "rhino-forge-2001.2.3-build.10.jar",
       "hash": "59387620b0ef6becbff02c7c1636ad3e"
     },
@@ -247,6 +251,10 @@
     {
       "name": "tru.e-ending-v1.1.0c.jar",
       "hash": "c83ccd876af0ac3cac72d2880b7c1a18"
+    },
+    {
+      "name": "Vanishmod-1.20.1-1.1.21.jar",
+      "hash": "9a3a45af157675d33b1005ec7bb792ac"
     },
     {
       "name": "voicechat-forge-1.20.1-2.6.16.jar",
