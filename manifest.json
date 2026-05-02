@@ -117,10 +117,6 @@
       "hash": "014932879bbf5d04db41d8de4dde003a"
     },
     {
-      "name": "forge-47.4.9-1.20.1-freecam_by_jasonzli-1.2.0.jar",
-      "hash": "6c2647e1ca256093987f4ac572bba2a0"
-    },
-    {
       "name": "ftb-essentials-forge-2001.2.4.jar",
       "hash": "c46c0af33a0452001e8628075b341eb2"
     },
@@ -199,6 +195,10 @@
     {
       "name": "players-drop-heads-15.1.jar",
       "hash": "8054ad5835c4f7f49d17307b08ed0ada"
+    },
+    {
+      "name": "reforgedplaymod-1.20.1-0.3.1.jar",
+      "hash": "a1fe7a8cba5fec900fb61689fb67fb74"
     },
     {
       "name": "rhino-forge-2001.2.3-build.10.jar",
