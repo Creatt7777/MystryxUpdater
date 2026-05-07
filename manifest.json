@@ -57,6 +57,10 @@
       "hash": "6fb9ccbe8c05c1da61c224d1127e9643"
     },
     {
+      "name": "CraftTweaker-forge-1.20.1-14.0.60.jar",
+      "hash": "e23ee8bcc8d95fedbecbd86a698cc6c1"
+    },
+    {
       "name": "create-1.20.1-6.0.8.jar",
       "hash": "6ebc5c57638c1678359eac65b924c310"
     },
@@ -235,10 +239,6 @@
     {
       "name": "spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
       "hash": "522b10d8b1901f3b16c0cc753a39a185"
-    },
-    {
-      "name": "starlight-1.1.5+forge.c562a3a.jar",
-      "hash": "c81c92926bdf55f2d7a4ce27aaf81638"
     },
     {
       "name": "supplementaries-1.20-3.1.43-forge.jar",
