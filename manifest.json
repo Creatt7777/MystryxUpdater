@@ -57,10 +57,6 @@
       "hash": "6fb9ccbe8c05c1da61c224d1127e9643"
     },
     {
-      "name": "CraftTweaker-forge-1.20.1-14.0.60.jar",
-      "hash": "e23ee8bcc8d95fedbecbd86a698cc6c1"
-    },
-    {
       "name": "create-1.20.1-6.0.8.jar",
       "hash": "6ebc5c57638c1678359eac65b924c310"
     },
@@ -194,7 +190,7 @@
     },
     {
       "name": "oresabovediamonds-10.0.1b.jar",
-      "hash": "c29959b97101458281841149ed397b10"
+      "hash": "352e19932a44fddd297b29bf2ed3c401"
     },
     {
       "name": "players-drop-heads-15.1.jar",
