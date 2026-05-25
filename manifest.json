@@ -1,268 +1,549 @@
 {
+  "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
+  "updated_at": "2026-05-25T15:52:58Z",
+  "forge": "1.20.1-47.4.20",
+  "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
     {
+      "name": "[1.20.1] SecurityCraft v1.10.1.jar",
+      "hash": "9299326e13fa4f10c377ea6b26c771f9",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/[1.20.1] SecurityCraft v1.10.1.jar",
+      "sha256": "ec601ba570c5351c353fc1ee0eb2f4823d1c026d265a96d3ec802070a50b6ebd",
+      "size": 4769715
+    },
+    {
       "name": "alexscaves-2.0.2.jar",
-      "hash": "6c8793ee5e1aa852fdb430a9cdaccdc5"
+      "hash": "6c8793ee5e1aa852fdb430a9cdaccdc5",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/alexscaves-2.0.2.jar",
+      "sha256": "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0",
+      "size": 74871657
+    },
+    {
+      "name": "alexsmobs-1.22.9.jar",
+      "hash": "504050d1f2e2c3019b6f53377ca354c6",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/alexsmobs-1.22.9.jar",
+      "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+      "size": 26350793
     },
     {
       "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
-      "hash": "dae63cea9c951dda542a4005ceef3953"
+      "hash": "dae63cea9c951dda542a4005ceef3953",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+      "size": 47428
     },
     {
       "name": "architectury-9.2.14-forge.jar",
-      "hash": "76b40d407b6bf0257dd1dab6d3d395d5"
+      "hash": "76b40d407b6bf0257dd1dab6d3d395d5",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "size": 580602
     },
     {
       "name": "Arda's Hammer 1.0 [FORGE] [1.20.1].jar",
-      "hash": "8ae41b45945e0289f61274d4bf523709"
+      "hash": "8ae41b45945e0289f61274d4bf523709",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Arda's Hammer 1.0 [FORGE] [1.20.1].jar",
+      "sha256": "119aefb2e80e2e088e7e3a4fce986766e0ba6e4ad7a522495acdef799f785fb2",
+      "size": 221574
     },
     {
       "name": "astikorcarts-1.20.1-1.1.8.jar",
-      "hash": "0165d0921a96ee41880446af6182fffe"
+      "hash": "0165d0921a96ee41880446af6182fffe",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/astikorcarts-1.20.1-1.1.8.jar",
+      "sha256": "6a83acd902d354535d0aba43a77aefcb80e3ec9fb27d6d0de035c44a77ec1fe1",
+      "size": 231706
+    },
+    {
+      "name": "Ballistix-1.20.1-1.0.1-0.jar",
+      "hash": "e00bae1a51d4112bf2b79acb614a1c4a",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Ballistix-1.20.1-1.0.1-0.jar",
+      "sha256": "c3295030637602deef0e75cf1ff017da229b381b0195867a81358a80493072c9",
+      "size": 9833099
     },
     {
       "name": "caveblock-2.0V1.20.1.jar",
-      "hash": "c5a00fb219f5c1ed87d040f202bb0acf"
-    },
-    {
-      "name": "chatanimation-forge-1.20.1-1.1.3.jar",
-      "hash": "4d20168e4327b7e6357eb108030a0baf"
+      "hash": "c5a00fb219f5c1ed87d040f202bb0acf",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/caveblock-2.0V1.20.1.jar",
+      "sha256": "8356aecd7b9d8fe7e5e1cd93d0c513c1230d641f4cadeff44a99183dc6035b6b",
+      "size": 82568
     },
     {
       "name": "chat_heads-0.15.1-forge-1.20.jar",
-      "hash": "6b4e07133ec910ce5495dc935e65363d"
+      "hash": "6b4e07133ec910ce5495dc935e65363d",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/chat_heads-0.15.1-forge-1.20.jar",
+      "sha256": "f60da490da005f1a1a03104262de3a94968b8a51a55fbc2949cacb63d6cc6bec",
+      "size": 722579
+    },
+    {
+      "name": "chatanimation-forge-1.20.1-1.1.3.jar",
+      "hash": "4d20168e4327b7e6357eb108030a0baf",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/chatanimation-forge-1.20.1-1.1.3.jar",
+      "sha256": "10a3110acf65f60f43f363eb52308f7302b9d9d17e618c7d057acf40bbb637ba",
+      "size": 381473
     },
     {
       "name": "Chunky-1.3.146.jar",
-      "hash": "ed46120ac4f30ec8e03f6416e295577c"
+      "hash": "ed46120ac4f30ec8e03f6416e295577c",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Chunky-1.3.146.jar",
+      "sha256": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
+      "size": 341451
     },
     {
       "name": "citadel-2.6.3-1.20.1.jar",
-      "hash": "da80c09b998d829b6d580e5be76dcc7b"
+      "hash": "da80c09b998d829b6d580e5be76dcc7b",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/citadel-2.6.3-1.20.1.jar",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+      "size": 3185275
     },
     {
       "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
-      "hash": "7a71806a1167d866608fc2e8c7d62041"
+      "hash": "7a71806a1167d866608fc2e8c7d62041",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha256": "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0",
+      "size": 20300
     },
     {
       "name": "collective-1.20.1-8.17.jar",
-      "hash": "fb63bf2eb1dce9d1715cdd77c7c4ec36"
+      "hash": "fb63bf2eb1dce9d1715cdd77c7c4ec36",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/collective-1.20.1-8.17.jar",
+      "sha256": "0f3fbc0c1e4589fc17e42e26a0624b42128544fc75688fef6e28c8c38f3ec167",
+      "size": 662512
     },
     {
       "name": "Connectible Chains-forge-1.20.1-1.1.1.jar",
-      "hash": "c07c70ddddb10c7c1533a9268ce1bff0"
+      "hash": "c07c70ddddb10c7c1533a9268ce1bff0",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Connectible Chains-forge-1.20.1-1.1.1.jar",
+      "sha256": "23106f03ac434864d2dc32a7f8266bd46fd746102f0d6ec44452e87fd2d9c151",
+      "size": 175462
     },
     {
       "name": "coroutil-forge-1.20.1-1.3.7.jar",
-      "hash": "6fb9ccbe8c05c1da61c224d1127e9643"
+      "hash": "6fb9ccbe8c05c1da61c224d1127e9643",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha256": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+      "size": 64187
     },
     {
       "name": "create-1.20.1-6.0.8.jar",
-      "hash": "6ebc5c57638c1678359eac65b924c310"
+      "hash": "6ebc5c57638c1678359eac65b924c310",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/create-1.20.1-6.0.8.jar",
+      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
+      "size": 19170905
     },
     {
       "name": "curios-forge-5.14.1+1.20.1.jar",
-      "hash": "2fdcc97cbc66c4b2492b407c792e7159"
-    },
-    {
-      "name": "doubledoors-1.20.1-7.2.jar",
-      "hash": "acc83322cb9fdaeb03d2b2ad49b538f1"
+      "hash": "2fdcc97cbc66c4b2492b407c792e7159",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "size": 398066
     },
     {
       "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
-      "hash": "6abd43d0aed2c1823718e228006669c6"
+      "hash": "6abd43d0aed2c1823718e228006669c6",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+      "sha256": "71ffc54d3f1fbe9497cf7b398c79a2724c60f7b06809941e9ded0888587347af",
+      "size": 625488
+    },
+    {
+      "name": "doubledoors-1.20.1-7.2.jar",
+      "hash": "acc83322cb9fdaeb03d2b2ad49b538f1",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/doubledoors-1.20.1-7.2.jar",
+      "sha256": "1847baf0f97a3ebc07735743b0e226c45dd7c289cd03214bcfc7f49ed44ccb1e",
+      "size": 54300
     },
     {
       "name": "dragondropselytra-1.20.1-3.5.jar",
-      "hash": "12ee9d33b9b7586ad27c359c53c5f780"
+      "hash": "12ee9d33b9b7586ad27c359c53c5f780",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/dragondropselytra-1.20.1-3.5.jar",
+      "sha256": "f2571b34dd91e35a09f9bd93ad4a3312859f26bc38508af7e12dff9561602462",
+      "size": 24517
     },
     {
       "name": "easy_factions-0.9.1.jar",
-      "hash": "8776bfd949d57d591bcce7b19ca31e01"
+      "hash": "8776bfd949d57d591bcce7b19ca31e01",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/easy_factions-0.9.1.jar",
+      "sha256": "a0d6f2d807aec845fc720e56dad15ee03288dcdcdd7b031aa6a8f8cb3cd80f8b",
+      "size": 223199
     },
     {
       "name": "easy_factions_objective_control-0.1.8.jar",
-      "hash": "8f668b723517a21ae8e58b0fed7b0198"
+      "hash": "8f668b723517a21ae8e58b0fed7b0198",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/easy_factions_objective_control-0.1.8.jar",
+      "sha256": "b686acb36045843b0cd843bfcaa6a85fece68ea0f2a30d039e8c74df0c931c63",
+      "size": 47641
     },
     {
       "name": "effortlessbuilding-1.20.1-3.10.jar",
-      "hash": "a57660341d13ed1cc5d4f1dae9f79e20"
+      "hash": "a57660341d13ed1cc5d4f1dae9f79e20",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/effortlessbuilding-1.20.1-3.10.jar",
+      "sha256": "877bd0652f8b035ba4ef268697c55860409f218464b3f07b65c516e1319700fc",
+      "size": 2285317
     },
     {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
-      "hash": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+      "hash": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
     },
     {
       "name": "entityculling-forge-1.10.1-mc1.20.1.jar",
-      "hash": "fa444135fa129ab6197e6829c0bd6197"
+      "hash": "fa444135fa129ab6197e6829c0bd6197",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/entityculling-forge-1.10.1-mc1.20.1.jar",
+      "sha256": "1231bb17e3db1a7d4e98800bb070ec1e7e7c016b934e1eb11c1cc63d11d0aa2d",
+      "size": 1583021
     },
     {
       "name": "exposure-forge-1.20.1-1.9.20.jar",
-      "hash": "b4adbdc1368921a238a039d28ad83d7e"
+      "hash": "b4adbdc1368921a238a039d28ad83d7e",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/exposure-forge-1.20.1-1.9.20.jar",
+      "sha256": "103b416e7f78b7b27cc5ff025db9e602ccc9caaa7fb54606f2fdb483f2277bc1",
+      "size": 2249505
     },
     {
       "name": "ezac-0.3.2.jar",
-      "hash": "2e38cce7ded7503a3ed7199e4d8ecbf6"
+      "hash": "2e38cce7ded7503a3ed7199e4d8ecbf6",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/ezac-0.3.2.jar",
+      "sha256": "ccc829272f4ee37ce7ea12888f65a37c1cfaa4ceff32526cf940f8d4da3d05a3",
+      "size": 18851
     },
     {
       "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
-      "hash": "bf41a4251d431d92b89b6c91f84d5546"
+      "hash": "bf41a4251d431d92b89b6c91f84d5546",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "sha256": "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858",
+      "size": 4472193
     },
     {
       "name": "ferritecore-6.0.1-forge.jar",
-      "hash": "f52f538207a4829d7060550092ce2383"
+      "hash": "f52f538207a4829d7060550092ce2383",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
     },
     {
       "name": "fix1.0.3-1.20.1-forge.jar",
-      "hash": "014932879bbf5d04db41d8de4dde003a"
+      "hash": "014932879bbf5d04db41d8de4dde003a",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/fix1.0.3-1.20.1-forge.jar",
+      "sha256": "cf580b8fa52a6d8e958cedbe9897d867c8c87b42778aa1347ba25e66332eb3ed",
+      "size": 1310746
     },
     {
       "name": "ftb-essentials-forge-2001.2.4.jar",
-      "hash": "c46c0af33a0452001e8628075b341eb2"
+      "hash": "c46c0af33a0452001e8628075b341eb2",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/ftb-essentials-forge-2001.2.4.jar",
+      "sha256": "e0022bfe29dc10e373947701dae1bc4ce75ee15fe21f6d89269677fbb9aebf73",
+      "size": 157732
     },
     {
       "name": "ftb-library-forge-2001.2.12.jar",
-      "hash": "8bbd067159587d80f1c5286ea52e567b"
+      "hash": "8bbd067159587d80f1c5286ea52e567b",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/ftb-library-forge-2001.2.12.jar",
+      "sha256": "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96",
+      "size": 780523
     },
     {
       "name": "futureshops-1.0.jar",
-      "hash": "79809abbd9bf53bf7583280176e22321"
+      "hash": "79809abbd9bf53bf7583280176e22321",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/futureshops-1.0.jar",
+      "sha256": "e611dc1ce655114eab926494ef17191274cdb10fb43b6dd8703e41cae11af8a3",
+      "size": 696049
     },
     {
       "name": "geckolib-forge-1.20.1-4.8.3.jar",
-      "hash": "33b0f8fe0a8d59fcf9d4e222741ecba7"
+      "hash": "33b0f8fe0a8d59fcf9d4e222741ecba7",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha256": "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250",
+      "size": 1039046
     },
     {
       "name": "gjeb-forge-1.20.1-1.3.0.39.jar",
-      "hash": "64410f3499a101d650f02771fc19e14f"
+      "hash": "64410f3499a101d650f02771fc19e14f",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/gjeb-forge-1.20.1-1.3.0.39.jar",
+      "sha256": "b0a132f9e911c02e0e18f0a645c994e71e8e10950e0b4f6b95e3b128ddc5039c",
+      "size": 80211
     },
     {
       "name": "hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
-      "hash": "63e1368ce3acd67bf26dd2b12e5eace0"
+      "hash": "63e1368ce3acd67bf26dd2b12e5eace0",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
+      "sha256": "4853477702d25c3e7b53957cf76e09675232690e0246177a77d8ebb750835bb9",
+      "size": 199804
     },
     {
       "name": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
-      "hash": "f49ff767f611a95f9bd29a0e9977d9d5"
+      "hash": "f49ff767f611a95f9bd29a0e9977d9d5",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+      "sha256": "45dd68b6707b3eeae0c958d0242b29ec03cdd0d8fc88af20761661ebf3c456cd",
+      "size": 2428368
     },
     {
       "name": "inv_view_forge-2.1.0-1.20.1.jar",
-      "hash": "9f2da2c9bf14e8b47f182e87e8658cec"
+      "hash": "9f2da2c9bf14e8b47f182e87e8658cec",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/inv_view_forge-2.1.0-1.20.1.jar",
+      "sha256": "2dd2f672c878a5363adfa2a0813e0c52feae0680844845ea940170433a546682",
+      "size": 85516
     },
     {
       "name": "journeymap-1.20.1-5.10.3-forge.jar",
-      "hash": "be46ebd4654a75a03ecbc5497d2ddce9"
+      "hash": "be46ebd4654a75a03ecbc5497d2ddce9",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/journeymap-1.20.1-5.10.3-forge.jar",
+      "sha256": "7640a8fdc24ea3988764f774ed1b84cae60f70a1b395bb693faa7aa91b38af62",
+      "size": 7160406
     },
     {
       "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-      "hash": "d69107c593e361e1b7b96733250bd098"
+      "hash": "d69107c593e361e1b7b96733250bd098",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
+      "size": 625185
     },
     {
       "name": "kotlinforforge-4.12.0-all.jar",
-      "hash": "d6a40dede74edbe646b34a1bafd53b4d"
+      "hash": "d6a40dede74edbe646b34a1bafd53b4d",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+      "size": 7442998
     },
     {
       "name": "kubejs-forge-2001.6.5-build.24.jar",
-      "hash": "fe11669761112cda3e75d21b13a11931"
+      "hash": "fe11669761112cda3e75d21b13a11931",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/kubejs-forge-2001.6.5-build.24.jar",
+      "sha256": "41719240421262acc0f348dfec92dc3c3654983662de6ae0358737029ad09076",
+      "size": 1658709
     },
     {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-      "hash": "6b528d368f7fcbf737df28f2457cdec6"
+      "hash": "6b528d368f7fcbf737df28f2457cdec6",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
+      "size": 37178
     },
     {
       "name": "mobhealthbar-forge-1.20.x-2.3.0.jar",
-      "hash": "fb590b86c6f971a8ff0c79933d5723df"
+      "hash": "fb590b86c6f971a8ff0c79933d5723df",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/mobhealthbar-forge-1.20.x-2.3.0.jar",
+      "sha256": "ebf5623adb87a5bfadee896da2a8301ac9042cb95d250374f751da91f8fd50d3",
+      "size": 113521
     },
     {
       "name": "modernfix-forge-5.27.15+mc1.20.1.jar",
-      "hash": "e6214ed279ed845f4cff7494b1d28f9a"
+      "hash": "e6214ed279ed845f4cff7494b1d28f9a",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/modernfix-forge-5.27.15+mc1.20.1.jar",
+      "sha256": "c5f9e10a714572d6208a2943b7741f6939f7ad306a3afb692ec8a87b9668d94a",
+      "size": 949149
     },
     {
       "name": "moonlight-1.20-2.16.28-forge.jar",
-      "hash": "16b9f89e07b2c567c610881f784cf6d1"
+      "hash": "16b9f89e07b2c567c610881f784cf6d1",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/moonlight-1.20-2.16.28-forge.jar",
+      "sha256": "46ee59799b38da7b87b734e4f6f11be886a15cab51cbf78614bb50f9e43b3278",
+      "size": 1393921
     },
     {
       "name": "mowziesmobs-1.8.2.jar",
-      "hash": "d650da053314d7384a537db1f316d11f"
+      "hash": "d650da053314d7384a537db1f316d11f",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/mowziesmobs-1.8.2.jar",
+      "sha256": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c",
+      "size": 36033850
+    },
+    {
+      "name": "orbital_railgun-1.4.2.jar",
+      "hash": "1d6a13d19145265001e37eb610ede23d",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/orbital_railgun-1.4.2.jar",
+      "sha256": "259c9ee45468dc33dcbea36517caaa679f60c8bebc216f67ec6f47c181fc5242",
+      "size": 832521
     },
     {
       "name": "oresabovediamonds-10.0.1b.jar",
-      "hash": "7f17673b1532b01a64c7d6d0c7856ecd"
+      "hash": "7f17673b1532b01a64c7d6d0c7856ecd",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/oresabovediamonds-10.0.1b.jar",
+      "sha256": "38d08f05fb9903c79c314892f463ab9eaea8cdbb697e430ba287f1ad8568c2e0",
+      "size": 190519
     },
     {
       "name": "players-drop-heads-15.1.jar",
-      "hash": "8054ad5835c4f7f49d17307b08ed0ada"
+      "hash": "8054ad5835c4f7f49d17307b08ed0ada",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/players-drop-heads-15.1.jar",
+      "sha256": "351d6580831216315b2d0e9a7bd3e85f8181f6b327e7c5263b2f3bb0be5edaa5",
+      "size": 39028
     },
     {
       "name": "rhino-forge-2001.2.3-build.10.jar",
-      "hash": "59387620b0ef6becbff02c7c1636ad3e"
+      "hash": "59387620b0ef6becbff02c7c1636ad3e",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/rhino-forge-2001.2.3-build.10.jar",
+      "sha256": "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
+      "size": 1798244
     },
     {
       "name": "scannable-MC1.20.1-forge-1.7.12+18ccb75.jar",
-      "hash": "e57d955d7a5f1c5c7c66ac9c6451a250"
+      "hash": "e57d955d7a5f1c5c7c66ac9c6451a250",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/scannable-MC1.20.1-forge-1.7.12+18ccb75.jar",
+      "sha256": "902187671171b7500fbf364d09ba39ee92941b963f865c50172ad36eaa9e5c04",
+      "size": 399467
     },
     {
       "name": "SimpleLogin-1.20.1-1.0.2-all.jar",
-      "hash": "e48ba16ac4f6eb6d215d9277110d9df0"
+      "hash": "e48ba16ac4f6eb6d215d9277110d9df0",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/SimpleLogin-1.20.1-1.0.2-all.jar",
+      "sha256": "1e923563c4d85793ef59849114c0a7c51ba1e1446e1976eeedb58acb81f52b44",
+      "size": 99700
     },
     {
       "name": "skin_changer-forge-1.20.1-0.6.6.jar",
-      "hash": "62c922b3219f6d14db704a53d8fea63d"
+      "hash": "62c922b3219f6d14db704a53d8fea63d",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/skin_changer-forge-1.20.1-0.6.6.jar",
+      "sha256": "fec9d0a5c2e7341187cc600f6df8c15b27b896945f17413c6dbb7f1847cf4a2e",
+      "size": 60904
     },
     {
       "name": "sleep_tight-1.20-1.4.7.jar",
-      "hash": "c4ccd3ef2f0ece9f092800d400aa0e4f"
+      "hash": "c4ccd3ef2f0ece9f092800d400aa0e4f",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/sleep_tight-1.20-1.4.7.jar",
+      "sha256": "bc64bb810e2726b48e032aea24d24fe4e6a7cfcbec6d199f9a2e903c571e694c",
+      "size": 944948
     },
     {
       "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
-      "hash": "c52bf453f18b87f43cae36acf628eb60"
+      "hash": "c52bf453f18b87f43cae36acf628eb60",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "sha256": "f79a4dcab3e1c8e4d14467cbfa655f4a16e0f0d0901e8f9bde9e3f5e36735eff",
+      "size": 1816687
     },
     {
       "name": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
-      "hash": "c8cd5ae14d99796fd92c95a353e96211"
+      "hash": "c8cd5ae14d99796fd92c95a353e96211",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "sha256": "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5",
+      "size": 41044
     },
     {
       "name": "snowyspirit-1.20-3.0.10.jar",
-      "hash": "8d281f47b68918f177f7f1e5f12bbeae"
+      "hash": "8d281f47b68918f177f7f1e5f12bbeae",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/snowyspirit-1.20-3.0.10.jar",
+      "sha256": "7de7c0b4b397b5675279c9c7bae630e27eb3dc4754ae7a268c59d3f24eb58138",
+      "size": 5362591
     },
     {
       "name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-      "hash": "6e3efd49fceebe9026b8f831518e0048"
+      "hash": "6e3efd49fceebe9026b8f831518e0048",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha256": "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108",
+      "size": 206984
     },
     {
       "name": "spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
-      "hash": "522b10d8b1901f3b16c0cc753a39a185"
+      "hash": "522b10d8b1901f3b16c0cc753a39a185",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
+      "sha256": "a12f393691d4125c94c0e059592c2e54b1b21e4f887597fccb3a8f743d4cec63",
+      "size": 220435
     },
     {
       "name": "supplementaries-1.20-3.1.43-forge.jar",
-      "hash": "31e94bb39e718edf97d49d8c67ac941a"
+      "hash": "31e94bb39e718edf97d49d8c67ac941a",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/supplementaries-1.20-3.1.43-forge.jar",
+      "sha256": "6132fc23a2fe1da0ca57439b35526ee9a1a8d898397ff8e61b2d08fb951cdf6a",
+      "size": 13667742
     },
     {
       "name": "travelersbackpack-forge-1.20.1-9.1.53.jar",
-      "hash": "5f676ff548de325b8d0c2140400baa98"
+      "hash": "5f676ff548de325b8d0c2140400baa98",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/travelersbackpack-forge-1.20.1-9.1.53.jar",
+      "sha256": "91288d170aa9a8a563e23898ccbc62d5ab4922d50d443f0faa9c644181015a4d",
+      "size": 1358126
     },
     {
       "name": "tru.e-ending-v1.1.0c.jar",
-      "hash": "c83ccd876af0ac3cac72d2880b7c1a18"
+      "hash": "c83ccd876af0ac3cac72d2880b7c1a18",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/tru.e-ending-v1.1.0c.jar",
+      "sha256": "3bf63a4ed7cb9a75727da2301fe0642ce74c9e0384cdb79e9b3570d3ab320aaa",
+      "size": 5525883
     },
     {
       "name": "Vanishmod-1.20.1-1.1.21.jar",
-      "hash": "9a3a45af157675d33b1005ec7bb792ac"
+      "hash": "9a3a45af157675d33b1005ec7bb792ac",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Vanishmod-1.20.1-1.1.21.jar",
+      "sha256": "98c2a27875fdbc08ce78e9728faf9c4457256c3b0b7227a5f6e7f5627682e514",
+      "size": 75336
     },
     {
       "name": "voicechat-forge-1.20.1-2.6.17.jar",
-      "hash": "8b85f61a3a845106dedc5d846418e768"
+      "hash": "8b85f61a3a845106dedc5d846418e768",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/voicechat-forge-1.20.1-2.6.17.jar",
+      "sha256": "31a4aa5ed047eb7687aeb1839a44eb1b53c70729b0394235775c6bf284969df7",
+      "size": 4903246
+    },
+    {
+      "name": "Voltaic-1.20.1-1.0.2-0.jar",
+      "hash": "65c97b1efbff24ed2efa98cb0c1ba8db",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Voltaic-1.20.1-1.0.2-0.jar",
+      "sha256": "d7f9b035eefb15dad8f63f27008f63c8aa74dbc53f8493f28ea16c06a682f70f",
+      "size": 1829267
     },
     {
       "name": "watut-forge-1.20.1-1.2.3.jar",
-      "hash": "345d3ecdf94dffaa0e3ba55538c65f80"
+      "hash": "345d3ecdf94dffaa0e3ba55538c65f80",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/watut-forge-1.20.1-1.2.3.jar",
+      "sha256": "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
+      "size": 435496
     },
     {
       "name": "witherstormmod-1.20.1-4.2.1-all.jar",
-      "hash": "401ef2f3270a67caf03a6c30610063e3"
+      "hash": "401ef2f3270a67caf03a6c30610063e3",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/witherstormmod-1.20.1-4.2.1-all.jar",
+      "sha256": "a23c019b1465c87ba506ada49aa815866e5353ebdc2be3284d9087ff080018ac",
+      "size": 47342265
+    }
+  ],
+  "client_only": [
+    {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "hash": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/client_only_mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
     },
     {
-      "name": "[1.20.1] SecurityCraft v1.10.1.jar",
-      "hash": "9299326e13fa4f10c377ea6b26c771f9"
+      "name": "entityculling-forge-1.10.1-mc1.20.1.jar",
+      "hash": "fa444135fa129ab6197e6829c0bd6197",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/client_only_mods/entityculling-forge-1.10.1-mc1.20.1.jar",
+      "sha256": "1231bb17e3db1a7d4e98800bb070ec1e7e7c016b934e1eb11c1cc63d11d0aa2d",
+      "size": 1583021
+    },
+    {
+      "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "hash": "bf41a4251d431d92b89b6c91f84d5546",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/client_only_mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "sha256": "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858",
+      "size": 4472193
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "hash": "f52f538207a4829d7060550092ce2383",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/client_only_mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
+    },
+    {
+      "name": "gjeb-forge-1.20.1-1.3.0.39.jar",
+      "hash": "64410f3499a101d650f02771fc19e14f",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/client_only_mods/gjeb-forge-1.20.1-1.3.0.39.jar",
+      "sha256": "b0a132f9e911c02e0e18f0a645c994e71e8e10950e0b4f6b95e3b128ddc5039c",
+      "size": 80211
+    },
+    {
+      "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "hash": "d69107c593e361e1b7b96733250bd098",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/client_only_mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
+      "size": 625185
+    },
+    {
+      "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "hash": "6b528d368f7fcbf737df28f2457cdec6",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/client_only_mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
+      "size": 37178
     }
   ]
 }
