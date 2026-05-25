@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-05-25T15:27:48Z",
+  "updated_at": "2026-05-25T15:31:10Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -367,13 +367,6 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/players-drop-heads-15.1.jar",
       "sha256": "351d6580831216315b2d0e9a7bd3e85f8181f6b327e7c5263b2f3bb0be5edaa5",
       "size": 39028
-    },
-    {
-      "name": "reforgedplaymod-1.20.1-0.3.1.jar",
-      "hash": "a1fe7a8cba5fec900fb61689fb67fb74",
-      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/reforgedplaymod-1.20.1-0.3.1.jar",
-      "sha256": "00a1f31b05db4abee5e8523ccc00aff4ec8b96b02c982386d90014276fd4604b",
-      "size": 16661938
     },
     {
       "name": "rhino-forge-2001.2.3-build.10.jar",
