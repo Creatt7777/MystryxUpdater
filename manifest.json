@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-05-27T15:55:14Z",
+  "updated_at": "2026-05-27T15:55:34Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -377,9 +377,9 @@
     },
     {
       "name": "protectcord-forge-1.2.23-all.jar",
-      "hash": "533c711e699fd69e6f54949006d5bd9e",
+      "hash": "bceefe82ffdbf97da74284a39545d1ac",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/protectcord-forge-1.2.23-all.jar",
-      "sha256": "f09ab30405aaf1ba411cf1bb20fbe242421859cfb2d29acc59ced0fac96522e7",
+      "sha256": "62f72fd72f597275f78c064b4746ec6ef751a13ac37c28c33355414efa2cddd7",
       "size": 2938722
     },
     {
