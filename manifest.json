@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-05-27T15:49:07Z",
+  "updated_at": "2026-05-27T15:49:25Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -374,13 +374,6 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/players-drop-heads-15.1.jar",
       "sha256": "351d6580831216315b2d0e9a7bd3e85f8181f6b327e7c5263b2f3bb0be5edaa5",
       "size": 39028
-    },
-    {
-      "name": "protectcord-forge-1.2.23-all (1).jar",
-      "hash": "",
-      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/protectcord-forge-1.2.23-all (1).jar",
-      "sha256": "",
-      "size": 2938690
     },
     {
       "name": "protectcord-forge-1.2.23-all.jar",
