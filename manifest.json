@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-05-27T15:49:25Z",
+  "updated_at": "2026-05-27T15:55:14Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -377,10 +377,10 @@
     },
     {
       "name": "protectcord-forge-1.2.23-all.jar",
-      "hash": "9619906f1f7b79f41bc73dd1e495a63a",
+      "hash": "533c711e699fd69e6f54949006d5bd9e",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/protectcord-forge-1.2.23-all.jar",
-      "sha256": "5ad42d5e6eb7d8fdaffc206c4d98028d43447b8ba44db6209cce49b586c5e15f",
-      "size": 2938690
+      "sha256": "f09ab30405aaf1ba411cf1bb20fbe242421859cfb2d29acc59ced0fac96522e7",
+      "size": 2938722
     },
     {
       "name": "rhino-forge-2001.2.3-build.10.jar",
