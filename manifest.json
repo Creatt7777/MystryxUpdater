@@ -1,10 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-<<<<<<< HEAD
-  "updated_at": "2026-05-27T15:01:45Z",
-=======
-  "updated_at": "2026-05-25T15:31:10Z",
->>>>>>> temp-mod
+  "updated_at": "2026-05-27T15:42:58Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -28,6 +24,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/alexsmobs-1.22.9.jar",
       "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
       "size": 26350793
+    },
+    {
+      "name": "amendments-1.20-2.2.5.jar",
+      "hash": "3e821a83a3a12bc9ca0fecb73a980dba",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/amendments-1.20-2.2.5.jar",
+      "sha256": "2ecb189991320d789cd2c539d770b5b52ad71eff93d186297d10853bcb6ee00a",
+      "size": 1301022
     },
     {
       "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -311,20 +314,10 @@
     },
     {
       "name": "kubejs-forge-2001.6.5-build.24.jar",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> temp-mod
       "hash": "fe11669761112cda3e75d21b13a11931",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/kubejs-forge-2001.6.5-build.24.jar",
       "sha256": "41719240421262acc0f348dfec92dc3c3654983662de6ae0358737029ad09076",
       "size": 1658709
-<<<<<<< HEAD
-=======
-=======
-      "hash": "fe11669761112cda3e75d21b13a11931"
->>>>>>> 3b7bf26 (add build workflow)
->>>>>>> temp-mod
     },
     {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
@@ -381,6 +374,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/players-drop-heads-15.1.jar",
       "sha256": "351d6580831216315b2d0e9a7bd3e85f8181f6b327e7c5263b2f3bb0be5edaa5",
       "size": 39028
+    },
+    {
+      "name": "protectcord-forge-1.2.23-all.jar",
+      "hash": "9619906f1f7b79f41bc73dd1e495a63a",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/protectcord-forge-1.2.23-all.jar",
+      "sha256": "5ad42d5e6eb7d8fdaffc206c4d98028d43447b8ba44db6209cce49b586c5e15f",
+      "size": 2938690
     },
     {
       "name": "rhino-forge-2001.2.3-build.10.jar",
