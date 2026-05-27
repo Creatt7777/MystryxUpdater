@@ -307,10 +307,14 @@
     },
     {
       "name": "kubejs-forge-2001.6.5-build.24.jar",
+<<<<<<< HEAD
       "hash": "fe11669761112cda3e75d21b13a11931",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/kubejs-forge-2001.6.5-build.24.jar",
       "sha256": "41719240421262acc0f348dfec92dc3c3654983662de6ae0358737029ad09076",
       "size": 1658709
+=======
+      "hash": "fe11669761112cda3e75d21b13a11931"
+>>>>>>> 3b7bf26 (add build workflow)
     },
     {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
