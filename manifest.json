@@ -1,6 +1,10 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
+<<<<<<< HEAD
   "updated_at": "2026-05-27T15:01:45Z",
+=======
+  "updated_at": "2026-05-25T15:31:10Z",
+>>>>>>> temp-mod
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -307,10 +311,20 @@
     },
     {
       "name": "kubejs-forge-2001.6.5-build.24.jar",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> temp-mod
       "hash": "fe11669761112cda3e75d21b13a11931",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/kubejs-forge-2001.6.5-build.24.jar",
       "sha256": "41719240421262acc0f348dfec92dc3c3654983662de6ae0358737029ad09076",
       "size": 1658709
+<<<<<<< HEAD
+=======
+=======
+      "hash": "fe11669761112cda3e75d21b13a11931"
+>>>>>>> 3b7bf26 (add build workflow)
+>>>>>>> temp-mod
     },
     {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
