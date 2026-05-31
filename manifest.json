@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-05-31T12:01:08Z",
+  "updated_at": "2026-05-31T12:27:25Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -507,6 +507,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/witherstormmod-1.20.1-4.2.1-all.jar",
       "sha256": "a23c019b1465c87ba506ada49aa815866e5353ebdc2be3284d9087ff080018ac",
       "size": 47342265
+    },
+    {
+      "name": "worldedit-mod-7.2.15.jar",
+      "hash": "bd0e7cff7896348faab92e43300d0639",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/worldedit-mod-7.2.15.jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "size": 5825402
     }
   ],
   "client_only": [
