@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-01T15:29:31Z",
+  "updated_at": "2026-06-01T16:51:36Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -248,6 +248,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/ftb-library-forge-2001.2.12.jar",
       "sha256": "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96",
       "size": 780523
+    },
+    {
+      "name": "ftb-ranks-forge-2001.1.7.jar",
+      "hash": "b0a342f7fd0fd420094c185d105298c9",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/ftb-ranks-forge-2001.1.7.jar",
+      "sha256": "ec654cb94b3be8217da91f114667d7b0170c7be2ed533ac7e4faa337d1f5b872",
+      "size": 87362
     },
     {
       "name": "futureshops-1.0.jar",
