@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-03T19:48:52Z",
+  "updated_at": "2026-06-03T19:49:33Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -115,6 +115,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/citadel-2.6.3-1.20.1.jar",
       "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
       "size": 3185275
+    },
+    {
+      "name": "cloth-config-11.1.136-forge.jar",
+      "hash": "ca5de5acbcb4a30c010aa6953bd7ef53",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "size": 1181413
     },
     {
       "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
