@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-03T19:48:33Z",
+  "updated_at": "2026-06-03T19:48:52Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -367,6 +367,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/L_Enders_Cataclysm-3.28-optimization.jar",
       "sha256": "c786603ecc395d3e35f174b6313b835afb3abd4491acc7887b0dfcabdae82d58",
       "size": 73914394
+    },
+    {
+      "name": "lionfishapi-3.0.jar",
+      "hash": "76af08dd2f58d5557d13162d855f4cc9",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/lionfishapi-3.0.jar",
+      "sha256": "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871",
+      "size": 101931
     },
     {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
