@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-03T19:36:13Z",
+  "updated_at": "2026-06-03T19:37:50Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -388,6 +388,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/moonlight-1.20-2.16.28-forge.jar",
       "sha256": "46ee59799b38da7b87b734e4f6f11be886a15cab51cbf78614bb50f9e43b3278",
       "size": 1393921
+    },
+    {
+      "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "hash": "ce4b5bbb9ef6a7905c458ab599ef4cb2",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
+      "size": 76237
     },
     {
       "name": "mowziesmobs-1.8.2.jar",
