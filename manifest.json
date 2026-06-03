@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-03T19:04:32Z",
+  "updated_at": "2026-06-03T19:34:19Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -66,6 +66,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Ballistix-1.20.1-1.0.1-0.jar",
       "sha256": "c3295030637602deef0e75cf1ff017da229b381b0195867a81358a80493072c9",
       "size": 9833099
+    },
+    {
+      "name": "BOMD-Forge-1.20.1-1.1.1.jar",
+      "hash": "0146d6faf2227e7f33eafb83a7fea180",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/BOMD-Forge-1.20.1-1.1.1.jar",
+      "sha256": "4530411d4cd1004f3a6ad248c6bda667c364ee4fd345ceb7a20c947ef093e3be",
+      "size": 1751110
     },
     {
       "name": "caveblock-2.0V1.20.1.jar",
@@ -479,6 +486,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/supplementaries-1.20-3.1.43-forge.jar",
       "sha256": "6132fc23a2fe1da0ca57439b35526ee9a1a8d898397ff8e61b2d08fb951cdf6a",
       "size": 13667742
+    },
+    {
+      "name": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "hash": "7a27b8747306bdee0857b50e11a9850e",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "sha256": "f26aace5460890b9a46094586530708517b58fc1e8752055882fd4f03912f07d",
+      "size": 10298153
     },
     {
       "name": "travelersbackpack-forge-1.20.1-9.1.53.jar",
