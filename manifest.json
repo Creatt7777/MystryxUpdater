@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-03T19:50:46Z",
+  "updated_at": "2026-06-03T19:51:15Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -80,6 +80,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/caveblock-2.0V1.20.1.jar",
       "sha256": "8356aecd7b9d8fe7e5e1cd93d0c513c1230d641f4cadeff44a99183dc6035b6b",
       "size": 82568
+    },
+    {
+      "name": "CerbonsApi-Forge-1.20.1-1.0.0.jar",
+      "hash": "d13c2aa14e9c1faea383969af3b81a3a",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/CerbonsApi-Forge-1.20.1-1.0.0.jar",
+      "sha256": "b764f411ddcf4612b27774166d227d3bc92741e1a89ac0590aa3dbba432ab249",
+      "size": 134593
     },
     {
       "name": "chat_heads-0.15.1-forge-1.20.jar",
