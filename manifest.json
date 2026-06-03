@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-03T11:12:57Z",
+  "updated_at": "2026-06-03T11:52:43Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -377,10 +377,10 @@
     },
     {
       "name": "oresabovediamonds-10.0.1b.jar",
-      "hash": "7f17673b1532b01a64c7d6d0c7856ecd",
+      "hash": "e4239ac051fdbc4573352291a2cb86b9",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/oresabovediamonds-10.0.1b.jar",
-      "sha256": "38d08f05fb9903c79c314892f463ab9eaea8cdbb697e430ba287f1ad8568c2e0",
-      "size": 190519
+      "sha256": "cc44b2ac1eefe7552e6f549a0b8b2bfe98d760e44f906d38453e7401beed2636",
+      "size": 190522
     },
     {
       "name": "players-drop-heads-15.1.jar",
