@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-03T19:34:19Z",
+  "updated_at": "2026-06-03T19:36:13Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -353,6 +353,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/kubejs-forge-2001.6.5-build.24.jar",
       "sha256": "41719240421262acc0f348dfec92dc3c3654983662de6ae0358737029ad09076",
       "size": 1658709
+    },
+    {
+      "name": "L_Enders_Cataclysm-3.28-optimization.jar",
+      "hash": "ae245df9655613c3fb6f86d8d03adba7",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/L_Enders_Cataclysm-3.28-optimization.jar",
+      "sha256": "c786603ecc395d3e35f174b6313b835afb3abd4491acc7887b0dfcabdae82d58",
+      "size": 73914394
     },
     {
       "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
