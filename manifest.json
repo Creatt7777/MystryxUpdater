@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-10T12:53:48Z",
+  "updated_at": "2026-06-10T12:54:29Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -626,6 +626,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/worldedit-mod-7.2.15.jar",
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
       "size": 5825402
+    },
+    {
+      "name": "YungsApi-1.20-Forge-4.0.6.jar",
+      "hash": "fe79f43dba8edbb8ede99f4e358e5b0c",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+      "size": 370524
     },
     {
       "name": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
