@@ -1,6 +1,6 @@
 {
   "modsDownloadBase": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods",
-  "updated_at": "2026-06-10T12:32:04Z",
+  "updated_at": "2026-06-10T12:48:51Z",
   "forge": "1.20.1-47.4.20",
   "github_repo": "Creatt7777/MystryxUpdater",
   "mods": [
@@ -229,6 +229,13 @@
       "size": 1320675
     },
     {
+      "name": "end_villager_outpost-1.0.0-forge-1.20.1.jar",
+      "hash": "5cf1b78b683dbc93a5a5761eae39d2ed",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/end_villager_outpost-1.0.0-forge-1.20.1.jar",
+      "sha256": "4e063b54acec24a59493d29254f29f4b68e74161b72016416e7c7bf92fe8fdd0",
+      "size": 68019
+    },
+    {
       "name": "entityculling-forge-1.10.1-mc1.20.1.jar",
       "hash": "fa444135fa129ab6197e6829c0bd6197",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/entityculling-forge-1.10.1-mc1.20.1.jar",
@@ -334,6 +341,13 @@
       "size": 85516
     },
     {
+      "name": "Jadens-Nether-Expansion-2.3.5.jar",
+      "hash": "40786442d010e05f4f0e8b2c06d106f4",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/Jadens-Nether-Expansion-2.3.5.jar",
+      "sha256": "97c9c1271c3f551663592b689771e45d63098e674899596d693641b82ecf5ccb",
+      "size": 23488061
+    },
+    {
       "name": "jei-1.20.1-forge-15.20.0.130.jar",
       "hash": "a47e80ce79ecbb6c60e28880ab997d1d",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/jei-1.20.1-forge-15.20.0.130.jar",
@@ -376,6 +390,13 @@
       "size": 73914394
     },
     {
+      "name": "legendarymonsters-2.1.12 MC 1.20.1.jar",
+      "hash": "f0fdb1bd8148fbb78255f23ce46f1509",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/legendarymonsters-2.1.12 MC 1.20.1.jar",
+      "sha256": "44e0bea6534d35fb91f59e6545310a034871c171b52bcaedb318f89779cd65f9",
+      "size": 44821852
+    },
+    {
       "name": "lionfishapi-3.0.jar",
       "hash": "76af08dd2f58d5557d13162d855f4cc9",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/lionfishapi-3.0.jar",
@@ -402,6 +423,13 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/modernfix-forge-5.27.15+mc1.20.1.jar",
       "sha256": "c5f9e10a714572d6208a2943b7741f6939f7ad306a3afb692ec8a87b9668d94a",
       "size": 949149
+    },
+    {
+      "name": "mofus_broken_constellation-0.9.0-forge-1.20.1.jar",
+      "hash": "a882a7cf241a53fc3afe75074de300dd",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar",
+      "sha256": "f4dff8971f6446d904cab87deab698292811f1568dc794c4167ca3018e8be13e",
+      "size": 14706695
     },
     {
       "name": "moonlight-1.20-2.16.28-forge.jar",
@@ -530,6 +558,13 @@
       "size": 10298153
     },
     {
+      "name": "tlc_forge-1.0.3-R-1.20.X.jar",
+      "hash": "690310a4329ad05d94636a5e33bd5074",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/tlc_forge-1.0.3-R-1.20.X.jar",
+      "sha256": "bb7da52ed3f577b7b1d16bd97951d1cc15552195cc494a7efe35d109198d9878",
+      "size": 713860
+    },
+    {
       "name": "travelersbackpack-forge-1.20.1-9.1.53.jar",
       "hash": "5f676ff548de325b8d0c2140400baa98",
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/travelersbackpack-forge-1.20.1-9.1.53.jar",
@@ -584,6 +619,20 @@
       "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/worldedit-mod-7.2.15.jar",
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
       "size": 5825402
+    },
+    {
+      "name": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "hash": "7f5ed661e5478668a91ea199fba75fb3",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha256": "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83",
+      "size": 387111
+    },
+    {
+      "name": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "hash": "8f0011690923efb6e2d59514181f0bc9",
+      "url": "https://media.githubusercontent.com/media/Creatt7777/MystryxUpdater/main/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha256": "12cffc99dccca69d294ba5bc39c331367794b339061572a6f3773620303a2f51",
+      "size": 619255
     }
   ],
   "client_only": [
